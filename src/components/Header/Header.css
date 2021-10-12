@@ -1,0 +1,18 @@
+.hdr a{
+margin-right: 10px;
+text-decoration: none;
+border-radius: 5px;
+background-color: rgb(231, 223, 223);
+border: 1px solid gold;
+padding: 5px;
+}
+.hdr{
+    margin: 10px;
+}
+.log-out{
+margin-right: 10px;
+border-radius: 5px;
+background-color: rgb(250, 188, 188);
+border: 1px solid gold;
+padding: 7.5px;
+}
